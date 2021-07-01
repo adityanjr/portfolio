@@ -10,6 +10,7 @@
     "@testing-library/user-event": "^12.6.0",
     "autoprefixer": "^9.8.6",
     "lottie-web": "^5.7.5",
+    "netlify-cli": "^4.0.4",
     "postcss": "^7.0.35",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
