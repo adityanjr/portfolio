@@ -26,6 +26,15 @@ const projects = [
     github: "https://github.com/adityanjr/nasa-deno",
     link: "https://deno.land/",
   },
+  {
+    title: "Blog for Portfolio",
+    image: "./images/blog",
+    description:
+      "Blog made for Portfolio with GraphQL, Gatsby and headless CMS (GraphCMS)",
+    tools: ["GraphQL", "ReactJS", "TailwindCSS"],
+    github: "https://github.com/adityanjr/portfolio",
+    link: "https://blog-adityanjr.netlify.app/",
+  },
 ];
 
 export default projects;

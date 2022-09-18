@@ -17,8 +17,8 @@ const Hero = () => {
   }, []);
 
   return (
-    <section className="my-5 px-10 md:my-32 flex flex-col flex-wrap md:space-y-0 patterns">
-      <div className="ml-auto w-72 md:w-96 lg:w-2/5">
+    <section className="my-5 pr-40 md:my-4 flex flex-col flex-wrap md:space-y-0 patterns">
+      <div className="ml-auto w-50 md:w-50 lg:w-2/5">
         <div className="container" ref={container}></div>
       </div>
       <div className="max-w-md mb-auto space-y-2">

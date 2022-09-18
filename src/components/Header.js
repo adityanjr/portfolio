@@ -30,6 +30,14 @@ const Header = () => {
             Resume
           </a>
         </li>
+        <li>
+          <a
+            href="https://blog-adityanjr.netlify.app/"
+            className="py-2 px-6 hover:bg-blue-500 focus:bg-gray rounded-lg bg-gray"
+          >
+            blog
+          </a>
+        </li>
       </ul>
     </nav>
   );
